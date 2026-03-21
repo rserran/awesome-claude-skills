@@ -10,11 +10,12 @@
   - [✍️ Writing \& Research](#️-writing--research)
   - [📘 Learning \& Knowledge](#-learning--knowledge)
   - [🎬 Media \& Content](#-media--content)
-  - [🏥 Health & Life Sciences](#-health--life-sciences)
+  - [🏥 Health \& Life Sciences](#-health--life-sciences)
   - [🤝 Collaboration \& Project Management](#-collaboration--project-management)
   - [🛡 Security \& Web Testing](#-security--web-testing)
   - [🔧 Utility \& Automation](#-utility--automation)
-  - [🗂️ Collections](#-collections)
+  - [📰 Articles \& Blog Posts](#-articles--blog-posts)
+  - [🗂️ Collections](#️-collections)
   - [🤝 Contribution](#-contribution)
   - [📬 Contact](#-contact)
 
@@ -63,7 +64,6 @@
 
 
 ## 📊 Data & Analysis
-- [root-cause-tracing](https://github.com/obra/superpowers/tree/main/skills/root-cause-tracing) - Use when errors occur deep in execution and you need to trace back to find the original trigger
 - [csv-data-summarizer-claude-skill](https://github.com/coffeefuelbump/csv-data-summarizer-claude-skill) - Automatically analyzes CSVs: columns, distributions, missing data, correlations.
 - [notebooklm](https://github.com/sanjay3290/ai-skills/tree/main/skills/notebooklm) - Query and manage Google NotebookLM notebooks with persistent auth, batch/multi queries, source sync, and structured exports.
 - [postgres](https://github.com/sanjay3290/ai-skills/tree/main/skills/postgres) - Execute safe read-only SQL queries against PostgreSQL databases with multi-connection support and defense-in-depth security.
