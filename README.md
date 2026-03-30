@@ -190,7 +190,7 @@
 - [agentskill.sh](https://agentskill.sh) - Browse and install 69,000+ AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Zed, and 20+ AI tools.
 - [Agent Almanac](https://github.com/pjt222/agent-almanac) - 317 skills, 65 agents, and 14 teams for Claude Code following the Agent Skills open standard across 50+ domains.
 - [AlterLab-FC-Skills](https://github.com/AlterLab-IEU/AlterLab-FC-Skills) - 72 agentic skills for creative technology workflows across 11 domains.
-- [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 2,097 academic skill MDs for higher education and research contexts.
+- [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) - 186+ academic research skills across 13 domains for higher education and research.
 - [AlterLab_GameForge](https://github.com/AlterLab-IEU/AlterLab_GameForge) - 34 game development skills covering design, mechanics, and production pipelines.
 
 ## 🤝 Contribution
